@@ -19,11 +19,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/shreeyan simkhada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreeyan simkhada" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shreeyan simkhada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreeyan simkhada" height="30" width="40" /></a>
+<a href="https://twitter.com/Shreeyan12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreeyan simkhada" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shreeyan-simkhada-4a54061b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreeyan simkhada" height="30" width="40" /></a>
 <a href="https://fb.com/shreeyan.simkhada9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shreeyan.simkhada9" height="30" width="40" /></a>
 <a href="https://instagram.com/shreeyan_smkda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shreeyan_smkda" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shree_yan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shree_yan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCAg4KV0eHLqVBI18H1oEwag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shree_yan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
