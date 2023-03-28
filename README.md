@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shreeyan Simkhada</h1>
 <h3 align="center">A passionate frontend developer from Canada</h3>
-<img align="right" alt="coding" width=400 src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<img align="right" alt="coding" width=350 src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreeyansi&label=Profile%20views&color=0e75b6&style=flat" alt="shreeyansi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shreeyansi" alt="shreeyansi" /></a> </p>
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shreeyansimkhada@gmail.com**
 
-- ⚡ Fun fact **I think I like working all the time**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,3 +32,10 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreeyansi&show_icons=true&locale=en&layout=compact" alt="shreeyansi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreeyansi&show_icons=true&locale=en" alt="shreeyansi" /></p>
+
+
+<h1 align="center">Project List</h1>
+
+| Project Name |   Type(web2/web3)  |     Description     |       Stack         |   Deployed Link  |
+|    :---:     |     :---:          |     :---:           |       :---:         |        :---:     |
+| Name It   |  web2-react    | A simple react app to suggest names using keyword input.|    HTML      |  http://ShreeyanSi.github.io/Nameit/  |
