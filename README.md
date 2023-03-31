@@ -40,3 +40,4 @@
 |    :---:     |     :---:          |     :---:           |       :---:         |        :---:     |
 | Name It   |  web2-react    | A simple react app to suggest names using keyword input.|    HTML      |  http://ShreeyanSi.github.io/Nameit/  |
 | Flash Type     |   web2-react    | React-app to check your typing speed.   | HTML, CSS, JavaScript    |  https://ShreeyanSi.github.io/flashtype      |
+| Flexbox   |   Advanced CSS    | HTML Flexbox app   | HTML, CSS    |  https://github.com/ShreeyanSi/flexbox     |
